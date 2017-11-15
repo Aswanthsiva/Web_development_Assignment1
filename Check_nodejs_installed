@@ -1,0 +1,5 @@
+To check whether Node js is installed properly:
+First, Goto command propmt in windows or goto terminal in MacOS.
+Second, type node --version.
+If a version number is shown then node js is properly installed 
+else it's not properly installed.
